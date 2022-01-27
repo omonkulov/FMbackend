@@ -1,0 +1,100 @@
+[
+  {
+    "id": 405829049024,
+    "date": "02/12/22",
+    "total": 0,
+    "totalLoss": 37.29,
+    "totalGain": 37.29,
+    "transactions": {
+      "loss": [
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        }
+      ],
+      "gain": [
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 405829049024,
+    "date": "02/13/22",
+    "total": 0,
+    "totalLoss": 37.29,
+    "totalGain": 37.29,
+    "transactions": {
+      "loss": [
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        }
+      ],
+      "gain": [
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        },
+        {
+          "amount": 12.43,
+          "tag": "Shopping",
+          "title": "Amazon",
+          "bank": "PNC"
+        }
+      ]
+    }
+  }
+]
